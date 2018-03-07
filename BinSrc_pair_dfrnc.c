@@ -21,9 +21,9 @@ int main()
                 m=a[i];
                 p=a[mid];
                 flag=1;
-                break;//stop looping
+                break;
             }
-            else if(a[mid]>a[i]+num)//jogfol theke mid value boro hole
+            else if(a[mid]>a[i]+num)
             {
                 right=mid-1;
             }
