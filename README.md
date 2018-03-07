@@ -7,14 +7,6 @@
 
  Vjudge : https://vjudge.net/user/Md_Jahid_Hasan
 
- TOPH : https://toph.co/u/jahid_hasan
-
- CSACADEMY : https://csacademy.com/user/jahid
-
- Hackerearth :  http://www.hackerearth.com/@jahid.ictian
-
- Codeshef :  https://www.codechef.com/users/jahid_ictian
-
- codeforces : http://codeforces.com/profile/jahid-hasan
+ Codeforces : http://codeforces.com/profile/jahid-hasan
 
  Hackerrank  : https://www.hackerrank.com/m_jahid
