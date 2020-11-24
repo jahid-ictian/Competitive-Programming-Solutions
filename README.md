@@ -1,4 +1,4 @@
-# Competitive-Programming-Solutions
+# Competitive-Programming-journey
 # Find my profiles :
 
  ICPC baylor : https://icpc.baylor.edu/ICPCID/SO9X55OWARRG
